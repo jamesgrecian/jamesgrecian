@@ -1,6 +1,6 @@
 <h2 align="left"> James Grecian </h2>
 
-<h4 align="left"> School of Geography, Durham University </h4>
+<h4 align="left"> Department of Geography, Durham University </h4>
       
 **Personal website:** [jamesgrecian.com](https://jamesgrecian.com)
 
