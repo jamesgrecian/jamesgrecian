@@ -3,3 +3,5 @@
 Hello! I'm a marine ecologist and data scientist interested in how open and reproducible science can help us better understand the environmental impacts of the Anthropocene.
 
 **Personal website:** [jamesgrecian.com](https://jamesgrecian.com)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jamesgrecian)
